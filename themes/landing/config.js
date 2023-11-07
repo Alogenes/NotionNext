@@ -11,7 +11,7 @@ const CONFIG = {
   HERO_P_1: '快速搭建独立站、轻松放大品牌价值！',
   HERO_BUTTON_1_TEXT: '开始体验',
   HERO_BUTTON_1_LINK: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next',
-  HERO_BUTTON_2_TEXT: '了解更多',
+  HERO_BUTTON_2_TEXT: 'Sobre mí',
   HERO_BUTTON_2_LINK: 'https://docs.tangly1024.com/about',
   HERO_VIDEO_IMAGE: '/images/home.png',
   //   HERO_VIDEO_URL: '/videos/video.mp4',
