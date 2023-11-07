@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: 'Bienvenido a mi Blog', url: '' },
-    { title: 'Gracias por tu visitas', url: '' }
+    { title: 'Bienvenido a mi Blog'},
+    { title: 'Gracias por tu visitas'}
   ],
 
   // 英雄区(首页顶部大卡)
