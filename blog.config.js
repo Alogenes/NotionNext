@@ -206,18 +206,25 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: '风を共に舞う気持ち',
-      artist: 'Falcom Sound Team jdk',
+      name: 'Starfall',
+      artist: 'HOYO-MiX',
       url: 'http://ws.stream.qqmusic.qq.com/C400001UWMi61nHSNM.m4a?guid=779841651&vkey=FE3F54F81CF1D6ED082316E00B8F0538BF5F12D33BB92A038AAF766A1CDC52DAFEC6520CD9DF55B1AA130E9F646AE39DBCBE870DEBB61D9E&uin=&fromtag=120032',
       cover:
-            'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+            'https://i.ytimg.com/vi/9fktH5JKf5k/maxresdefault.jpg'
     },
     {
-      name: '王都グランセル',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731355.mp3',
+      name: '月まで届け不死の煙',
+      artist: 'HOYO-MiX',
+      url: 'http://ws.stream.qqmusic.qq.com/C400002t1hdS4KIOZI.m4a?guid=418242023&vkey=651A194033320EB68EF825744E861B0808AEC5F84D612B1EBC4ACB62A182379EB2E504FC3EB05786E5AD3D47A33312346BA3187876B5371F&uin=&fromtag=120032',
       cover:
-            'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+            'https://images.ctfassets.net/rnt9181hio7z/1jA3oZD9nlF2BsUJONaot7/a7c5b0bff24408442ad369ff34c885a4/m121.jpg'
+    },
+    {
+      name: 'Lamentation et triomphe',
+      artist: 'HOYO-MiX',
+      url: 'http://ws.stream.qqmusic.qq.com/C4000022AJf14CF1ye.m4a?guid=481498640&vkey=F1F66538F93F1A0ABF36523C5E59F741B5922E7D47123867ED998A5D747B2CAAAEB23B95052CD0F137C013886E19363967FB808086679D48&uin=&fromtag=120032',
+      cover:
+            'https://i.ytimg.com/vi/PRI7vd4Ojh8/maxresdefault.jpg'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
