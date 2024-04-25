@@ -301,7 +301,21 @@ const BLOG = {
       artist: 'ZUN',
       url: 'https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaUpyYjZrMThLMlpsSExjREFYdDRicnFMRUdm.mp3',
       cover:
-        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Z8Gg4AQ5pC8-5V0b-us9OGbjTo77n8nvRyINVRbC3g&s'
+        'https://images.pcone.com.tw/uploads/product_image/6666134/a73b42ac2aa4116b24f989eed42e8da6/728a25e75381d59afd1e6be0a62fd61b.jpg'
+    },
+    {
+      name: '-怪绮谈-不思議の国のアリス',
+      artist: 'ZUN',
+      url: 'https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaUpyYjZrMThLMlpsR3k1ek92NFRMT1lkYmtUP2U9M2RsQjg4.mp3',
+      cover:
+        'https://hachimonjiya.com/cdn/shop/products/alices_adventures_in_wonderland_1_2040x.jpg?v=1653023984'
+    },
+    {
+      name: 'Lamentation et triomphe',
+      artist: 'HOYO-MiX',
+      url: 'https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaUpyYjZrMThLMlpsQTRBMWtQekZCc19uUG9O.mp3',
+      cover:
+        'https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Fountain_of_Belleau.png/revision/latest/scale-to-width-down/1200?cb=20231004050621'
     },
     {
       name: '献给已逝公主的七重奏',
