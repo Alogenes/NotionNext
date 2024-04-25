@@ -315,7 +315,7 @@ const BLOG = {
       artist: 'HOYO-MiX',
       url: 'https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaUpyYjZrMThLMlpsQTRBMWtQekZCc19uUG9O.mp3',
       cover:
-        'https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Fountain_of_Belleau.png/revision/latest/scale-to-width-down/1200?cb=20231004050621'
+        'https://fastcdn.hoyoverse.com/content-v2/plat/113183/d0bb935d016c47d477f24d6eef778839_1189388312316710231.jpeg'
     },
     {
       name: '献给已逝公主的七重奏',
