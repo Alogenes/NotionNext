@@ -298,7 +298,7 @@ const BLOG = {
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
 
     {
-      name: '-怪绮谈-不思議の国のアリス',
+      name: '-怪绮谈-不思議の国のiアリス',
       artist: 'ZUN',
       url: 'http://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBamVubk5kV01haEdpalQxV1dITlAtV2pqX0NGP2U9TE5hakNu.mp3',
       cover:
@@ -306,9 +306,9 @@ const BLOG = {
     },
     
     {
-      name: '献给已逝公主的七重奏',
+      name: '献给已逝公主的y七重奏',
       artist: 'ZUN',
-      url: 'https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaUpyYjZrMThLMlpsSEFQR01wT1c5WXM1TnBiP2U9dnUyVnAx.mp3',
+      url: 'http://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaUpyYjZrMThLMlpsSEFQR01wT1c5WXM1TnBiP2U9dnUyVnAx.mp3',
       cover:
         'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Z8Gg4AQ5pC8-5V0b-us9OGbjTo77n8nvRyINVRbC3g&s'
     }
