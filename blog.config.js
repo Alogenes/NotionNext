@@ -296,13 +296,7 @@ const BLOG = {
   MUSIC_PLAYER_ORDER: process.env.NEXT_PUBLIC_MUSIC_PLAYER_ORDER || 'list', // 默认播放方式，顺序 list，随机 random
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
-    {
-      name: '月まで届け、不死の煙',
-      artist: 'ZUN',
-      url: 'https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaUpyYjZrMThLMlpsSExjREFYdDRicnFMRUdm.mp3',
-      cover:
-        'https://images.pcone.com.tw/uploads/product_image/6666134/a73b42ac2aa4116b24f989eed42e8da6/728a25e75381d59afd1e6be0a62fd61b.jpg'
-    },
+
     {
       name: '-怪绮谈-不思議の国のアリス',
       artist: 'ZUN',
@@ -310,13 +304,7 @@ const BLOG = {
       cover:
         'https://hachimonjiya.com/cdn/shop/products/alices_adventures_in_wonderland_1_2040x.jpg?v=1653023984'
     },
-    {
-      name: 'Lamentation et triomphe',
-      artist: 'HOYO-MiX',
-      url: 'https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaUpyYjZrMThLMlpsQTRBMWtQekZCc19uUG9O.mp3',
-      cover:
-        'https://fastcdn.hoyoverse.com/content-v2/plat/113183/d0bb935d016c47d477f24d6eef778839_1189388312316710231.jpeg'
-    },
+    
     {
       name: '献给已逝公主的七重奏',
       artist: 'ZUN',
