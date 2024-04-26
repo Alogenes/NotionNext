@@ -300,7 +300,7 @@ const BLOG = {
     {
       name: '-怪绮谈-不思議の国のiアリス',
       artist: 'ZUN',
-      url: 'http://music.163.com/song/media/outer/url?id=22636777.mp3',
+      url: 'http://ws.stream.qqmusic.qq.com/C400002Yg0Nf4B0MpW.m4a?guid=550890811&vkey=BB0F7A1C19B8C93E513681D3AEC5EEA6506EF9023A481933880D5FF56ACFF651A1D7F6CC1AFCBF6C269FD58EC591CB347B702CB246E5E29C&uin=&fromtag=120032&src=C400003CxXnL1kqTPs.m4a',
       cover:
         'https://hachimonjiya.com/cdn/shop/products/alices_adventures_in_wonderland_1_2040x.jpg?v=1653023984'
     },
