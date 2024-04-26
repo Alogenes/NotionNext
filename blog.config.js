@@ -304,6 +304,21 @@ const BLOG = {
       cover:
         'https://hachimonjiya.com/cdn/shop/products/alices_adventures_in_wonderland_1_2040x.jpg?v=1653023984'
     },
+
+    {
+      name: '献给已逝公主的y七重奏',
+      artist: 'ZUN',
+      url: 'http://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaUpyYjZrMThLMlpsSEFQR01wT1c5WXM1TnBiP2U9dnUyVnAx.mp3',
+      cover:
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Z8Gg4AQ5pC8-5V0b-us9OGbjTo77n8nvRyINVRbC3g&s'
+    }
+  {
+      name: '月まで届け、不死の煙',
+      artist: 'ZUN',
+      url: 'https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaUpyYjZrMThLMlpsSExjREFYdDRicnFMRUdm.mp3',
+      cover:
+        'https://images.pcone.com.tw/uploads/product_image/6666134/a73b42ac2aa4116b24f989eed42e8da6/728a25e75381d59afd1e6be0a62fd61b.jpg'
+    },
     
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
