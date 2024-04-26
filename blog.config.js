@@ -305,13 +305,6 @@ const BLOG = {
         'https://hachimonjiya.com/cdn/shop/products/alices_adventures_in_wonderland_1_2040x.jpg?v=1653023984'
     },
     
-    {
-      name: '献给已逝公主的y七重奏',
-      artist: 'ZUN',
-      url: 'http://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaUpyYjZrMThLMlpsSEFQR01wT1c5WXM1TnBiP2U9dnUyVnAx.mp3',
-      cover:
-        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Z8Gg4AQ5pC8-5V0b-us9OGbjTo77n8nvRyINVRbC3g&s'
-    }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
   MUSIC_PLAYER_METING_SERVER:
