@@ -311,7 +311,7 @@ const BLOG = {
       url: 'http://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaUpyYjZrMThLMlpsSEFQR01wT1c5WXM1TnBiP2U9dnUyVnAx.mp3',
       cover:
         'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Z8Gg4AQ5pC8-5V0b-us9OGbjTo77n8nvRyINVRbC3g&s'
-    }
+    },
   {
       name: '月まで届け、不死の煙',
       artist: 'ZUN',
